@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.IO;
 using System.Text;
@@ -41,7 +41,7 @@ class Program
 
         if (isCsgo)
         {
-            string csgoLog = Path.Combine(temp, "nl_csgo");
+            string csgoLog = Path.Combine(temp, "nl_csgo.log");
 
             Console.WriteLine("\n等待NL注入...");
             清空日志(csgoLog);
