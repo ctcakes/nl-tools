@@ -4,6 +4,7 @@
 # 下载
  - [Github](https://github.com/ctcakes/nl-tools/releases/download/main/NLTools-WinX64.zip)
  - [蓝奏云](https://wwbon.lanzoul.com/idEIB3i82rkj)
+ - 或者下载下来源码，使用VisualStudio自己打包。（需在Installer里面安装.Net什么什么WPF窗体应用包）
 # 为什么？
  - 由于勾栏子V🐍更新64位Steam，导致NL注入CS1时，拉起Steam后Steam闪退。为解决这个问题，写了这个小工具。
 # 怎么工作？
