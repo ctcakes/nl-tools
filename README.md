@@ -1,6 +1,7 @@
 # nl-tools
  - NL注入辅助工具
  - 我不知道别人有没有Steam拉不起来的问题，反正我自己是遇到了...如果你也有这个问题，可以尝试一下这个工具。
+ - 代码有点难看，让AI把文本改成中文，结果给我函数改中文了...
 # 下载
  - [Github](https://github.com/ctcakes/nl-tools/releases/download/main/NLTools-WinX64.zip)
  - [蓝奏云](https://wwbon.lanzoul.com/idEIB3i82rkj)
