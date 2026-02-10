@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\NLTools\bin\Debug\net10.0\NLTools.exe
+C:\Users\1\source\repos\NLTools\bin\Debug\net10.0\NLTools.deps.json
+C:\Users\1\source\repos\NLTools\bin\Debug\net10.0\NLTools.runtimeconfig.json
+C:\Users\1\source\repos\NLTools\bin\Debug\net10.0\NLTools.dll
+C:\Users\1\source\repos\NLTools\bin\Debug\net10.0\NLTools.pdb
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.AssemblyInfo.cs
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.dll
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\refint\NLTools.dll
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.pdb
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\NLTools.genruntimeconfig.cache
+C:\Users\1\source\repos\NLTools\obj\Debug\net10.0\ref\NLTools.dll
