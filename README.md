@@ -1,6 +1,9 @@
 # nl-tools
  - NL注入辅助工具
  - 我不知道别人有没有Steam拉不起来的问题，反正我自己是遇到了...如果你也有这个问题，可以尝试一下这个工具。
+# 下载
+ - [Github](https://github.com/ctcakes/nl-tools/releases/download/main/NLTools-WinX64.zip)
+ - [蓝奏云](https://wwbon.lanzoul.com/idEIB3i82rkj)
 # 为什么？
  - 由于勾栏子V🐍更新64位Steam，导致NL注入CS1时，拉起Steam后Steam闪退。为解决这个问题，写了这个小工具。
 # 怎么工作？
